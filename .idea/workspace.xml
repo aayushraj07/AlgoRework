@@ -35,7 +35,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MergeSortLL">
+  <component name="RunManager" selected="Application.TestingLL">
     <configuration name="MergeSortLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.MergeSortLL" />
       <module name="AlgoRework" />
@@ -75,8 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestingLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.TestingLL" />
+      <module name="AlgoRework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pepCoding.LinkedList.questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestingLL" />
         <item itemvalue="Application.MergeSortLL" />
         <item itemvalue="Application.MiddleNode" />
         <item itemvalue="Application.OddEven" />
